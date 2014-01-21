@@ -1,0 +1,34 @@
+Xbox 360 HID HIDDeviceInfo [
+	path = Wireless_045e_028e_0x7f9c29c20a90,
+	vendor_id = 1118,
+	product_id = 654,
+	serial_number = 59B5F310,
+	release_number = 0,
+	manufacturer_string = Microsoft,
+	product_string = Wireless 360 Controller,
+	usage_page = 1,
+	usage = 5,
+	interface_number = -1
+]
+
+Control       Byte Bit
+Up               2   0
+Down             2   1
+Left             2   2
+Right            2   3
+Start            2   4
+Select           2   5
+Left Joystick    2   6
+Right Joystick   2   7
+Left Back        3   0
+Right Back       3   1
+PS               3   2
+Sync             3   3
+Cross            3   4
+Circle           3   5
+Square           3   6
+Triangle         3   7
+Left Trigger     4 All
+Right Trigger    5 All
+Left Analog    6-9 All
+Right Analog 10-13 All
